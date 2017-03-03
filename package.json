@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "egg": "^0.9.0",
+    "egg-view": "^1.0.1",
     "egg-view-ejs": "^1.0.1",
     "egg-view-nunjucks": "^2.0.0"
   },
